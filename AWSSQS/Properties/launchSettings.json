@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AWSSQS": {
+      "commandName": "Project",
+      "commandLineArgs": "-q myqueue -m 10 -w 2"
+    }
+  }
+}
